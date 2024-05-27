@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\PresentationLayer\bin\Debug\PresentationLayer.dll
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\PresentationLayer\bin\Debug\BussinesLayer.dll
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\PresentationLayer\bin\Debug\EntityLayer.dll
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\PresentationLayer\bin\Debug\BussinesLayer.pdb
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\PresentationLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\PresentationLayer\obj\Debug\PresentationLayer.dll
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date

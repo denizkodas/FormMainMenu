@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\BussinesLayer\bin\Debug\BussinesLayer.dll
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\BussinesLayer\bin\Debug\BussinesLayer.pdb
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\BussinesLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\BussinesLayer\bin\Debug\EntityLayer.dll
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\BussinesLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\BussinesLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\BussinesLayer\obj\Debug\BussinesLayer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\BussinesLayer\obj\Debug\BussinesLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\BussinesLayer\obj\Debug\BussinesLayer.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\BussinesLayer\obj\Debug\BussinesLayer.dll
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\BussinesLayer\obj\Debug\BussinesLayer.pdb

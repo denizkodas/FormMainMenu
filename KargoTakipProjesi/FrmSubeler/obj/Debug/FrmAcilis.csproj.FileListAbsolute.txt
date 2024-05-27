@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\FrmSubeler\bin\Debug\FrmSubeler.exe.config
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\FrmSubeler\bin\Debug\FrmSubeler.exe
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\FrmSubeler\bin\Debug\FrmSubeler.pdb
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\FrmSubeler\obj\Debug\FrmAcilis.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\FrmSubeler\obj\Debug\FrmSubeler.FrmAcilis.resources
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\FrmSubeler\obj\Debug\FrmSubeler.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\FrmSubeler\obj\Debug\FrmAcilis.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\FrmSubeler\obj\Debug\FrmAcilis.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\FrmSubeler\obj\Debug\FrmSubeler.exe
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\FrmSubeler\obj\Debug\FrmSubeler.pdb

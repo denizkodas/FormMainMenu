@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\FrmAnaForm\bin\Debug\FrmAnaForm.exe.config
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\FrmAnaForm\bin\Debug\FrmAnaForm.exe
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\FrmAnaForm\bin\Debug\FrmAnaForm.pdb
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\FrmAnaForm\obj\Debug\FrmAnaForm.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\FrmAnaForm\obj\Debug\FrmAnaForm.FrmAnaForm.resources
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\FrmAnaForm\obj\Debug\FrmAnaForm.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\FrmAnaForm\obj\Debug\FrmAnaForm.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\FrmAnaForm\obj\Debug\FrmAnaForm.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\FrmAnaForm\obj\Debug\FrmAnaForm.exe
+C:\Users\Lenovo\source\repos\KargoTakipProjesi\FrmAnaForm\obj\Debug\FrmAnaForm.pdb
